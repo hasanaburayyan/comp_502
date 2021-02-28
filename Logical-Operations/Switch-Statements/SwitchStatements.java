@@ -1,4 +1,4 @@
-public class IfElseStatement {
+public class SwitchStatement {
 
     /**
      *  In the below example our flow of execution will enter through the main() function and traverse our code from
