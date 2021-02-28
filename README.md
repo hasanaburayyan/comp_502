@@ -7,7 +7,9 @@ I have a passion for Computer Science. There are just soo many amazing topics to
 
 ## Contact Info
 Email: aburay01@email.franklin.edu
+
 Linkedin: https://www.linkedin.com/in/hasan-abu-rayyan-630563a2/
+
 Github: https://www.github.com/hasanaburayyan
 
 ## My Office Hours
@@ -28,7 +30,8 @@ Sunday: By Request
 4. Read through the code at a high level
     1. Start by maybe just reading the Class names, then read the class names and their function names. You may find it overwhelming to start digging into the logic of every function as you first read through an assingment
 5. There are many ways to solve every problem. Try not to focus on what the BEST solution is, iterate and make it better.
-    1. How can I print out "Bash-is'nt-scary-it-makes-me-stronger" in a BASH shell?
+    1. How can I print out "Bash-is'nt-scary-it-makes-me-stronger" in a BASH shell? Below we can see two solutions to the same problem. Solution one is LARGE and scary with MANY MANY additional steps that are not needed. Solution two is a quick
+       and concise way to accomplish the task. The point here is we may not always see the forest through the trees, sometimes the simple solution may not seem obvious. Focus on getting your code to work, then come back and make it better!
         1. <code>echo "BASH-is-scary-it-makes-me-nervous" \
            | sed "s/-.s-/-is'nt-/" \
            | awk -F"-" '{\$NF=""; print \$0}' \
