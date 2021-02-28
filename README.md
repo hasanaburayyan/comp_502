@@ -39,3 +39,20 @@ Sunday: By Request
            | perl -pe 's/(st.)/\$1ong/' > f \
            && M=\$(cat f) && echo "\${M}er"</code>
         2. <code>echo "BASH-is'nt-scary-it-makes-me-stronger"</code>
+    
+
+## Purpose Of This Repo:
+I hope to use this repo as a collection of examples ranging from foundational building blocks to more advanced design patterns. I plan to update this repo with your questions, if you have specific questions or examples you would like to see answered or demonstrated please
+follow these steps to open a issue. 
+1. Travel to the issues page for this repo https://github.com/hasanaburayyan/comp_502/issues
+2. Select `New Issue`
+
+![New Issue](resources/create-new-issue.png)
+
+3. Fill out your issues details.
+
+![Issue Details](resources/Fill-out-issue.png)
+
+4. Now we can track the issue, be sure to check your email for issue updates!
+
+![Issue Closed](resources/issue-closed.png)
