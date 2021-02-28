@@ -1,7 +1,7 @@
 public class IfElseStatement {
 
     /**
-     *  In the below example our flow of execution will enter throught the main() function and traverse our code from
+     *  In the below example our flow of execution will enter through the main() function and traverse our code from
      *  "top to bottom". We use the Switch operators to examine defined Case conditions. The first case that is found to be true will execute its nexted code
      *  before exiting the switch statement. If no case evaulations are true, then the default block will execute.
      *

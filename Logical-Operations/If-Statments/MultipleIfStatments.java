@@ -1,7 +1,7 @@
 public class IfElseStatement {
 
     /**
-     *  In the below example our flow of execution will enter throught the main() function and traverse our code from
+     *  In the below example our flow of execution will enter through the main() function and traverse our code from
      *  "top to bottom". We use the IF and ELSE-IF and ELSE operators to manipulate the flow of execution, if the expression that follows an if
      *  statement resolves to "true" the nested code will be executed. Else IF the seconde IF condition resolves to true it's nested code will be executed,
      *  ELSE another nested block of code will be executed.
