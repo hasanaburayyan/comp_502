@@ -27,13 +27,19 @@ TODO: Include Steps and screenshots
 - Let's Create a new java project in Eclipse
 - First navigate to File -> New -> Project...
 ![Start New Java Project](resources/create-new.png)
+  
 - Select Java Project
 ![Select Java Project](resources/select-java-project.png)
+  
 - Next Follow the instructions to setup our new project 
 ![Java Project Setup](resources/java-project-setup.png)
+  
 - In our newly create src directory right click and create new class
 ![Create New Class](resources/create-new-class.png)
+  
 - Lets give our class a name, and implement a `main` method
 ![Implement New Class](resources/implement-class.png)
+  
 - Within our main method we will write to STDOUT by using the `System.out.println("Hello, World!")` 
 ![Hello World](resources/hello-world.png)
+  
